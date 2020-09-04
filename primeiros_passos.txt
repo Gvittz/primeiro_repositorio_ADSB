@@ -1,1 +1,3 @@
-primeiros passos no git, aula 02 com a professora Giuliana Miniguiti
+primeiros passos no git, aula 02 com a professora Giuliana
+
+tirei o sobrenome da professora, e por decisão minha colocar @Giuliana.
